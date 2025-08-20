@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 About the Project / Proje Hakkında 
+## 📌 About the Project / Proje Hakkında
 ### TR
 Bu proje, **örnek bir araç kiralama web sitesi** tasarımıdır.  
 Gerçek bir firma veya hizmetle **hiçbir bağlantısı yoktur**.  
